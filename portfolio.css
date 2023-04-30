@@ -1,0 +1,49 @@
+
+.heading{
+    color: orange;
+    font-family: 'Bruno Ace', cursive;
+font-family: 'Poltawski Nowy', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+text-align: center;
+}
+p{
+color: #df2a2a;
+}
+li{
+color: #da1616;
+}
+body{
+background-color: hsla(hue, saturation, lightness, alpha);
+background-image: url(https://images.pexels.com/photos/5240544/pexels-photo-5240544.jpeg?auto=compress&cs=tinysrgb&w=600);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+ul
+{
+    font-family: 'Poltawski Nowy', serif;
+font-family: 'Poppins', sans-serif;
+}
+h1{
+    color: #f5f5f5;
+}
+a{
+    color: greenyellow;
+}
+marquee{
+    color: red;
+}
+.msd
+{
+    color: firebrick;
+}
+a:hover{
+    color: hwb(270 94% 5%);
+}
+/* a:active{
+    color: #da1616;
+} */
+/* a:visited{
+    color: hsl(322, 72%, 34%);
+} */
